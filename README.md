@@ -1,4 +1,4 @@
-# IMPROVED QUADGK WITH SINGULARITY DETECTION
+### Improved quadgk with singularity detection
 
 Theoretical basis:
 
@@ -10,3 +10,9 @@ points where f(x) has singularities.
 
 NOTE: f(x) should be a non-linear function with no constants.
 It **should not** be of the kind: f(x) + C.
+
+Roadmap/changelog:
+- Proof of concept (`version a01`). **Complete**
+  - *Status: custom function implementation needs to be revised.*
+- Revised solution for custom function.
+- Proof of concept (`version a02`).
